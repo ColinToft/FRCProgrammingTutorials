@@ -63,7 +63,6 @@ public class RobotMap {
 
   // Sensors
   public static final int HD_LIMIT_SWITCH_PORT = 0; // Limit switch for hatch delivery
-  public static final int BD_LEAF_SWITCH_PORT = 1; // Leaf switch for ball delivery
   
   // If you are using multiple modules, make sure to define both the port
   // number and the module. For example you with a rangefinder:
